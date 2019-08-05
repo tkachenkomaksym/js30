@@ -1,3 +1,3 @@
 # js30
 
-JavaScript30 online course by Wes Bos
+JavaScript30 day by day challenge
